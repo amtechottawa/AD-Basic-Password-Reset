@@ -50,7 +50,8 @@ This is a simple lab that demonstrates how to reset a user's forgotten password 
 ### 6. Click "OK" to Make the Changes
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7680dee-6ccd-4e3d-ac45-bcf55d9d4cc9" alt="Confirmation that the password has been changed" width="700">
+ <img width="1023" height="765" alt="06-Confirm" src="https://github.com/user-attachments/assets/79102ca2-8978-471b-94ce-01abf0674c01" />
+
 </p>
 
 ## Notes
