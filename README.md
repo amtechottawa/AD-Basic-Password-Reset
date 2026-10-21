@@ -35,7 +35,7 @@ This is a simple lab that demonstrates how to reset a user's forgotten password 
   <img src="https://github.com/user-attachments/assets/f92f468e-f9ec-45ee-a76a-4da41d077335" alt="Users container in Active Directory Users and Computers" width="700">
 </p>
 
-### 4. Right-Click the user and select Reset Password
+### 4. Right-Click the user and select Reset "Password"
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4bcfee5a-e9af-4d9c-b246-c9826e3c8622" alt="Right-click menu with Reset Password option" width="700">
