@@ -62,8 +62,6 @@ In Step 5 there is an option "User must change password at next logon" that is c
 
 I said no PowerShell commands but this is a short one line command that does the same thing for automation
 
-### Reset User Password
-
 To reset the password for the `kearl` Active Directory account:
 
 ```powershell
