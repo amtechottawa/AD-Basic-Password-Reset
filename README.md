@@ -68,4 +68,6 @@ I said no PowerShell commands but this is a short one line command that does the
 
 To reset the password for the kearl Active Directory account:
 
+```powershell
 Set-ADAccountPassword -Identity "kearl" -Reset -NewPassword (Read-Host -AsSecureString)
+```
