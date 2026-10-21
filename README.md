@@ -1,9 +1,9 @@
-# -active-directory--basic-password-reset
+# -Active-Directory---Password-Reset
 Changing a User's Password in Active Directory GUI
 
 ## Summary
 
-This is a simple lab to change a user who has been locked out of their account in Active Directory. No Powershell commands but a visual demonstration of how to do it in the dashboard, this repository will have screenshots for each step to visualize what is happening
+This is a simple lab that demonstrates how to reset a user's forgotten password in Active Directory. No PowerShell commands but a visual demonstration of how to do it in the dashboard. This repository contains screenshots for each step to visualize what is happening.
 
 ## Environment
 
@@ -39,7 +39,7 @@ This is a simple lab to change a user who has been locked out of their account i
 <img width="756" height="525" alt="Untitled5" src="https://github.com/user-attachments/assets/4bcfee5a-e9af-4d9c-b246-c9826e3c8622" />
 
 
-### 6.Enter New Password and Confirm
+### 6. Enter New Password and Confirm
 
 <img width="753" height="528" alt="Untitled6" src="https://github.com/user-attachments/assets/077fc228-c55e-4a01-adfd-cfa9b9361794" />
 
