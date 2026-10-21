@@ -58,7 +58,7 @@ In Step 5 there is an option "User must change password at next logon" that is c
 - Please verify the user's identity before changing the password
 - Use a strong temporary password
 
-# Bonus Information
+## Bonus Information
 
 I said no PowerShell commands but this is a short one line command that does the same thing for automation
 
