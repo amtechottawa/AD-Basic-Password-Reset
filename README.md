@@ -47,3 +47,24 @@ This is a simple lab that demonstrates how to reset a user's forgotten password 
   <img src="https://github.com/user-attachments/assets/077fc228-c55e-4a01-adfd-cfa9b9361794" alt="Reset Password dialog" width="700">
 <
 
+
+### 6. Click "Ok" to make the changes
+
+<img width="727" height="460" alt="Untitled7" src="https://github.com/user-attachments/assets/a7680dee-6ccd-4e3d-ac45-bcf55d9d4cc9" />
+
+## Notes
+
+In Step 5 there is an option "User must change password at next logon" that is checked, the admin should not know the user's password as it is temporary. The user must change the password and follow the password guidelines to strengthen the security posture.
+
+## Security 
+
+    Please verify the user's identity before changing the password
+    Use a strong temporary password
+
+## Bonus Information
+
+I said no PowerShell commands but this is a short one line command that does the same thing for automation
+
+To reset the password for the kearl Active Directory account:
+
+Set-ADAccountPassword -Identity "kearl" -Reset -NewPassword (Read-Host -AsSecureString)
